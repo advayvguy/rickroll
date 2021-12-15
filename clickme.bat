@@ -10,9 +10,5 @@ start chrome https://reddit.com/r/memes/
 y
 start notepad
 y
-start word
-y
-start Calculator 
-y
 start chrome https://www.youtube.com/watch?v=dQw4w9WgXcQ
 y
