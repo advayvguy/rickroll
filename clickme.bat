@@ -8,7 +8,12 @@ start chrome https://www.twitch.tv/
 y
 start chrome https://reddit.com/r/memes/
 y
-start notepad
-y
 start chrome https://www.youtube.com/watch?v=dQw4w9WgXcQ
+y
+copy con rick.txt
+lmao u got ricked 
+^Z
+
+y
+start notepad rick.txt
 y
