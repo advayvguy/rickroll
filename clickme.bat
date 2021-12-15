@@ -1,3 +1,5 @@
+@echo off
+
 start chrome https://classroom.google.com/u/1/h
 y
 start chrome https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
